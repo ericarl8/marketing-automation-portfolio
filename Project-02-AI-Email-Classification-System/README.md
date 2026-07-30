@@ -138,25 +138,29 @@ This automation helps businesses organize customer communications more efficient
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1184" height="592" alt="image" src="https://github.com/user-attachments/assets/47be3933-2096-43bb-b6fc-aa9ce2e0daf4" />
+
 
 ---
 
 ## 2️⃣ Gmail Inbox
 
-*Incoming customer email.*
+<img width="1189" height="520" alt="image" src="https://github.com/user-attachments/assets/871bb566-8b2a-4049-bdb5-8fa36a4b27ed" />
+
 
 ---
 
 ## 3️⃣ Google Gemini AI
 
-*AI-generated email classification.*
+<img width="652" height="650" alt="image" src="https://github.com/user-attachments/assets/7dc7970b-a714-4428-9318-288ce5b483ef" />
+
 
 ---
 
 ## 4️⃣ Google Sheets Database
 
-*Automatically categorized email records.*
+<img width="1037" height="512" alt="image" src="https://github.com/user-attachments/assets/e2cc046a-6b1a-4a78-af07-2acc5d978788" />
+
 
 ---
 
