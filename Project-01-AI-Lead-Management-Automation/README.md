@@ -156,7 +156,8 @@ This automation improves lead management by reducing repetitive administrative w
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/cbda8872-446c-40cf-8c3b-7d3c87453b30" />
+
 
 ---
 
