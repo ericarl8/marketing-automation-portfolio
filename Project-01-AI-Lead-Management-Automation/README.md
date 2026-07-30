@@ -60,7 +60,7 @@ When a customer submits the lead form, the automation:
 - Formats customer names consistently
 - Records the submission timestamp
 - Stores the lead in Google Sheets
-- Sends a professional HTML thank-you email
+- Sends a professional thank-you email
 
 The workflow creates a reliable and organized lead management process with minimal manual effort.
 
@@ -163,19 +163,22 @@ This automation improves lead management by reducing repetitive administrative w
 
 ## 2️⃣ Google Form
 
-*Lead capture form.*
+<img width="1365" height="663" alt="image" src="https://github.com/user-attachments/assets/2fdba0eb-b4c5-4ee6-a1fb-a8ba7bba376f" />
+
 
 ---
 
 ## 3️⃣ Google Sheets Database
 
-*Automatically organized lead records.*
+<img width="1039" height="646" alt="image" src="https://github.com/user-attachments/assets/7f93764d-a113-4a90-b92c-9c22e16350eb" />
+
 
 ---
 
-## 4️⃣ HTML Thank-you Email
+## 4️⃣ Thank-you Email
 
-*Professional email automatically sent to new leads.*
+<img width="1193" height="527" alt="image" src="https://github.com/user-attachments/assets/cf7a24e8-77a6-4dd7-9cbb-83dbdbbc3371" />
+
 
 ---
 
