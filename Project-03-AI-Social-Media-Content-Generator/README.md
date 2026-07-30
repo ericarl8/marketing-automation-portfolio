@@ -137,25 +137,29 @@ This automation helps businesses and marketing teams create social media content
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1208" height="594" alt="image" src="https://github.com/user-attachments/assets/a4cf20f7-6af6-403b-b168-0f5834ada2e5" />
+
 
 ---
 
 ## 2️⃣ Google Sheets
 
-*Content request input.*
+<img width="656" height="571" alt="image" src="https://github.com/user-attachments/assets/da461688-eb2a-4a5a-9820-7adf0f391e39" />
+
 
 ---
 
 ## 3️⃣ Google Gemini AI
 
-*AI-generated social media content.*
+<img width="622" height="636" alt="image" src="https://github.com/user-attachments/assets/174db598-13ec-47aa-aebe-cb62bb36a71a" />
+
 
 ---
 
 ## 4️⃣ Google Docs
 
-*Automatically generated content document.*
+<img width="1034" height="642" alt="image" src="https://github.com/user-attachments/assets/93a7f450-6f0d-45c1-8522-906f4afdfae3" />
+
 
 ---
 
