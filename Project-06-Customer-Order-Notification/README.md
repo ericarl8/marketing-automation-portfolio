@@ -141,31 +141,36 @@ This automation helps businesses respond to customer orders faster while maintai
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1283" height="600" alt="image" src="https://github.com/user-attachments/assets/be7925a2-5a40-4838-965c-f5345d91d7ac" />
+
 
 ---
 
 ## 2️⃣ Google Form
 
 *Customer order submission form.*
+<img width="1139" height="656" alt="image" src="https://github.com/user-attachments/assets/88d32e4d-d1c0-4de7-b800-afe53907125c" />
 
 ---
 
 ## 3️⃣ Google Sheets Database
 
 *Automatically recorded customer orders.*
+<img width="1083" height="430" alt="image" src="https://github.com/user-attachments/assets/dddc82c3-e92d-43fe-b9aa-f568d254a376" />
 
 ---
 
 ## 4️⃣ Business Email Notification
 
 *Notification sent to the business team.*
+<img width="1139" height="610" alt="image" src="https://github.com/user-attachments/assets/1ca836f2-184b-4ad2-ab51-61723c90943a" />
 
 ---
 
 ## 5️⃣ Customer Confirmation Email
 
 *Automatic confirmation sent to the customer.*
+<img width="1230" height="561" alt="image" src="https://github.com/user-attachments/assets/8e72dc53-4d8d-4573-8462-03022240a182" />
 
 ---
 
