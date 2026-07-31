@@ -137,25 +137,30 @@ This automation enables marketing teams to create SEO-focused content much faste
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1147" height="585" alt="image" src="https://github.com/user-attachments/assets/706f3fba-e072-41a3-8bbc-2fddcabac482" />
+
 
 ---
 
 ## 2️⃣ Google Sheets
 
 *Keyword input used to generate the article.*
+<img width="482" height="587" alt="image" src="https://github.com/user-attachments/assets/3e8b2122-1f94-4ed3-bca5-bd3d4090ea4b" />
 
 ---
 
 ## 3️⃣ Google Gemini AI
 
 *AI-generated SEO blog content.*
+<img width="565" height="650" alt="image" src="https://github.com/user-attachments/assets/32303d8f-fc38-4ea2-8608-0458431e24c7" />
+
 
 ---
 
 ## 4️⃣ Google Docs
 
 *Automatically created blog document.*
+<img width="1071" height="645" alt="image" src="https://github.com/user-attachments/assets/d480ac80-b545-4e1f-9e04-0f517a791bee" />
 
 ---
 
