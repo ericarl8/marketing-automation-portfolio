@@ -136,25 +136,29 @@ This automation enables businesses to monitor customer feedback more efficiently
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1172" height="592" alt="image" src="https://github.com/user-attachments/assets/06cb461d-ff17-4af3-a223-a10cf7cafbdd" />
+
 
 ---
 
 ## 2️⃣ Google Form
 
 *Customer review submission form.*
+<img width="1082" height="660" alt="image" src="https://github.com/user-attachments/assets/6452ef59-3db2-4358-bbb7-933e882c1236" />
 
 ---
 
 ## 3️⃣ Google Sheets Database
 
 *Automatically recorded customer reviews.*
+<img width="1365" height="381" alt="image" src="https://github.com/user-attachments/assets/bebe7fab-9731-4185-b5fb-cf5ba7dc25b5" />
 
 ---
 
 ## 4️⃣ Slack Notification
 
 *Instant notification sent to the team.*
+<img width="1134" height="609" alt="image" src="https://github.com/user-attachments/assets/3aa97e69-98c5-41e3-99c9-720a3068e373" />
 
 ---
 
