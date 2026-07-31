@@ -143,31 +143,36 @@ This automation significantly reduces the time required to prepare marketing rep
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1152" height="581" alt="image" src="https://github.com/user-attachments/assets/2d3a7050-a45f-4360-83ce-881a442e7b7a" />
+
 
 ---
 
 ## 2️⃣ Google Sheets Marketing Data
 
 *Marketing performance data used for report generation.*
+<img width="1069" height="356" alt="image" src="https://github.com/user-attachments/assets/6e57b4ec-321e-4e84-9be5-773d4886d5b0" />
 
 ---
 
 ## 3️⃣ Google Gemini AI
 
 *AI-generated marketing summary.*
+<img width="654" height="652" alt="image" src="https://github.com/user-attachments/assets/f8229806-899f-4714-b0c6-2f2558f1adc4" />
 
 ---
 
 ## 4️⃣ Google Docs Report
 
 *Automatically generated marketing report.*
+<img width="1047" height="651" alt="image" src="https://github.com/user-attachments/assets/b7b80856-a3a2-4730-9415-112ecbf70918" />
 
 ---
 
 ## 5️⃣ Gmail Delivery
 
 *Marketing report delivered to the recipient.*
+<img width="1232" height="576" alt="image" src="https://github.com/user-attachments/assets/ec873121-1900-445b-b1a3-8a0fb6408b5f" />
 
 ---
 
