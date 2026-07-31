@@ -132,25 +132,29 @@ This automation reduces the time spent manually reviewing customer emails while 
 
 ## 1️⃣ Make.com Scenario
 
-*Insert your Make.com workflow screenshot.*
+<img width="1230" height="550" alt="image" src="https://github.com/user-attachments/assets/984c94a9-da1e-467b-b28d-b35f67bdda01" />
+
 
 ---
 
 ## 2️⃣ Gmail Inbox
 
 *Incoming customer support email.*
+<img width="1188" height="542" alt="image" src="https://github.com/user-attachments/assets/48b987bd-2f43-49c6-82b4-5665728508f2" />
 
 ---
 
 ## 3️⃣ Google Gemini AI
 
 *AI-generated ticket classification and priority.*
+<img width="660" height="648" alt="image" src="https://github.com/user-attachments/assets/0f4cb86a-7d77-444b-8773-e3d15487c765" />
 
 ---
 
 ## 4️⃣ Google Sheets Database
 
 *Automatically created support ticket.*
+<img width="1220" height="287" alt="image" src="https://github.com/user-attachments/assets/4f2232de-98b9-4124-a955-ffda777a6f79" />
 
 ---
 
