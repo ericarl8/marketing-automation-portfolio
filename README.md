@@ -4,7 +4,7 @@ Welcome to my Marketing Automation Portfolio!
 
 I'm **Ericarl Tabudlong**, an aspiring **AI & Marketing Automation Specialist** focused on building practical automation solutions that help businesses save time, reduce manual work, and improve operational efficiency.
 
-This repository showcases a collection of **10 automation projects** built using **Make.com**, **Google Workspace**, and **Google Gemini AI**. Each project demonstrates how automation can streamline business processes in marketing, customer support, lead management, reporting, content creation, and business operations.
+This repository showcases a collection of **8 automation projects** built using **Make.com**, **Google Workspace**, and **Google Gemini AI**. Each project demonstrates how automation can streamline business processes in marketing, customer support, lead management, reporting, content creation, and business operations.
 
 ---
 
@@ -57,8 +57,6 @@ My goal is to create reliable, scalable, and practical automations that solve re
 | **Project 06** | Customer Order Notification | ✅ Completed |
 | **Project 07** | AI Marketing Report Generator | ✅ Completed |
 | **Project 08** | AI Customer Support Ticket Automation | ✅ Completed |
-| **Project 09** | Newsletter Subscriber Automation | ✅ Completed |
-| **Project 10** | AI Marketing Assistant | ✅ Completed |
 
 ---
 
